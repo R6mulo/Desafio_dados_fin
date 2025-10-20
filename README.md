@@ -58,4 +58,4 @@ O programa deve:
 
 **Romulo Chaves**  
 📚 Estudante do programa **ONE Oracle Next Education**  
-🔗 [GitHub](https://github.com/r6mulo) • [LinkedIn](https://linkedin.com/in/r6mulo)
+🔗 [GitHub](https://github.com/r6mulo) • [LinkedIn](https://linkedin.com/in/romulo-chaves)
